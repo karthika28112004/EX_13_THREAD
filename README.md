@@ -21,13 +21,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+
 ```
-/*
-Program to print the text “optionmenu”.
 Developed by: KARTHIKA E
-Registeration Number : 212222040072
-*/
+Register Number : 212222040072
 ```
+
+
 ## MainActivity.java
 ```
 package com.example.exp13;
@@ -136,7 +136,9 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/20f42008-7c0f-4209-9f49-d3063eca992f)
+
+![Screenshot 2024-11-11 101955](https://github.com/user-attachments/assets/e2b36e95-59e1-4e43-a385-1ae4e1a68238)
+
 
 
 ## RESULT
